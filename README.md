@@ -1,20 +1,16 @@
 # 🎙️ Virtual Assistant Jarvis
 
-> A Python-based intelligent voice assistant designed to automate desktop operations, retrieve information, monitor system resources, and enhance user productivity through natural voice commands.
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+A Python-based voice assistant designed to automate desktop operations, retrieve information, monitor system resources, and perform tasks through voice commands.
 
 ---
 
 # 📌 Project Overview
 
-Virtual Assistant Jarvis is a voice-controlled desktop automation system developed using Python. The application leverages Speech Recognition and Text-to-Speech technologies to interact with users and execute commands in real time.
+Virtual Assistant Jarvis is a voice-controlled desktop automation system developed using Python. The application uses Speech Recognition and Text-to-Speech technologies to interact with users and execute commands in real time.
 
-The assistant is capable of performing information retrieval, system monitoring, web automation, application launching, health calculations, and operating system control through voice-based interaction.
+The assistant can perform information retrieval, system monitoring, web automation, application launching, health calculations, and operating system control through voice-based interaction.
 
-This project demonstrates practical implementation of automation, voice processing, API integration, web scraping, and system programming concepts.
+This project demonstrates the practical application of Python automation, voice processing, API integration, web scraping, and system programming concepts.
 
 ---
 
@@ -24,55 +20,53 @@ This project demonstrates practical implementation of automation, voice processi
 * Automate routine computer operations.
 * Improve user productivity through voice interaction.
 * Integrate multiple Python libraries for real-world automation.
-* Demonstrate practical use of speech recognition technologies.
 
 ---
 
-# ✨ Key Features
+# ✨ Features
 
-## 🎤 Voice Interaction
+## Voice Interaction
 
-* Speech-to-Text conversion using Google Speech Recognition
+* Speech-to-Text using Google Speech Recognition
 * Text-to-Speech responses using Pyttsx3
 * Continuous voice command listening
-* Interactive conversational workflow
 
-## 🌐 Information Retrieval
+## Information Retrieval
 
-* Wikipedia article search and summaries
-* Current system time announcement
+* Wikipedia search and summaries
+* Current time announcement
 * Temperature information retrieval
-* IP address identification
+* IP address detection
 
-## 🚀 Web Automation
+## Web Automation
 
 * Open Google
 * Open YouTube
 * Open Instagram
-* Play songs directly on YouTube
-* Send WhatsApp messages automatically
+* Play songs on YouTube
+* Send WhatsApp messages
 
-## 💻 Application Control
+## Application Control
 
 * Launch Visual Studio Code
 * Open Command Prompt
 * Switch between active windows
 
-## 📊 System Monitoring
+## System Monitoring
 
-* CPU utilization tracking
+* CPU usage monitoring
 * Battery status monitoring
 
-## 🏥 Health Utilities
+## Health Utilities
 
 * BMI (Body Mass Index) Calculator
-* Health classification based on BMI
+* Health status analysis
 
-## ⚙️ Operating System Controls
+## Operating System Controls
 
-* Shutdown Computer
-* Restart Computer
-* Exit Assistant Safely
+* Shutdown computer
+* Restart computer
+* Exit assistant safely
 
 ---
 
@@ -125,19 +119,12 @@ virtual-assistant-jarvis
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
-├── .gitignore
-│
-├── screenshots
-│   ├── startup.png
-│   ├── wikipedia-search.png
-│   └── cpu-status.png
-│
-└── assets
+└── .gitignore
 ```
 
 ---
 
-# ⚙️ Installation Guide
+# ⚙️ Installation
 
 ## Clone Repository
 
@@ -173,7 +160,7 @@ python jarvis.py
 | IP Address            | Displays System IP              |
 | Open Command Prompt   | Opens CMD                       |
 | Open Code             | Launches VS Code                |
-| CPU Status            | Shows CPU & Battery Status      |
+| CPU Status            | Shows CPU and Battery Status    |
 | BMI                   | Calculates BMI                  |
 | Play Songs on YouTube | Plays Song                      |
 | Send Message          | Sends WhatsApp Message          |
@@ -186,65 +173,37 @@ python jarvis.py
 
 # 📈 Learning Outcomes
 
-This project helped develop practical knowledge in:
-
 * Voice Assistant Development
-* Speech Recognition Systems
+* Speech Recognition
 * Text-to-Speech Processing
 * Python Automation
 * System Programming
 * API Integration
 * Web Scraping
 * Desktop Automation
-* Human-Computer Interaction
 
 ---
 
 # 🔮 Future Enhancements
 
-* AI-Powered Conversational Chatbot
-* Integration with OpenAI or Gemini APIs
-* Email Automation
-* Calendar and Reminder Management
-* Real-Time Weather Forecasting
-* Face Recognition Authentication
-* Smart Home IoT Integration
-* GUI Dashboard using PyQt or Tkinter
-* Multilingual Voice Support
-
----
-
-# 📊 Project Highlights
-
-✔ Developed using Python
-
-✔ Implements Voice Recognition and Speech Synthesis
-
-✔ Supports Desktop Automation
-
-✔ Performs System Monitoring
-
-✔ Integrates Multiple Third-Party Libraries
-
-✔ Demonstrates Real-World Automation Use Cases
-
-✔ Uses Web Scraping and API Integration
-
-✔ Hands-on Application of Human-Computer Interaction Concepts
+* AI-powered conversational chatbot
+* Email automation
+* Weather forecasting
+* Reminder and scheduling system
+* Face recognition authentication
+* Smart home integration
+* Multilingual voice support
 
 ---
 
 # 👩‍💻 Author
 
-### Shruti Nilajkar
-
-Software Engineer | Java Full Stack Developer | Blockchain Developer
-
-GitHub: https://github.com/shrutinilajkar12
+Shruti Nilajkar
 
 ---
 
 # 📄 License
+
 This project is licensed under the MIT License.
 
 This project is licensed under the MIT License.
